@@ -61,7 +61,7 @@ jobs:
           context: ./backend/
           push: true
           tags: evgeniazagorodnykh/kitty_backend:latest
-   frontend_tests:
+  frontend_tests:
     runs-on: ubuntu-latest
 
     steps:
