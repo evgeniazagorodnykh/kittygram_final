@@ -32,9 +32,9 @@ jobs:
         pip install -r ./backend/requirements.txt
     - name: Test with flake8 and django tests
       env:
-        POSTGRES_DB: kittygram
-        POSTGRES_USER: kittygram_user
-        POSTGRES_PASSWORD: kittygram_password
+        POSTGRES_USER: kitty_user
+        POSTGRES_PASSWORD: kitty_password
+        POSTGRES_DB: kitty_db
         DB_HOST: 127.0.0.1
         DB_PORT: 5432
       run: |
