@@ -1,4 +1,6 @@
 ### Kittygram
+<img width="857" alt="image" src="https://github.com/evgeniazagorodnykh/kittygram_final/assets/129388336/95d7cabb-0823-430c-9880-61f2ce9d0ea7">
+
 
 ## Описание
 
